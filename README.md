@@ -59,18 +59,7 @@ O **CarGo** é uma plataforma web projetada para gerenciar o processo de aluguel
 
 ---
 
-### Para Clientes (Usuários Individuais)
--  Cadastro e autenticação de usuários.
--  Inserção de pedidos de aluguel.
--  Modificação e cancelamento de pedidos.
--  Consulta ao histórico de pedidos.
-
-### Para Agentes (Empresas e Bancos)
--  Modificação e avaliação de pedidos de aluguel.
--  Análise financeira dos pedidos.
--  Aprovação ou rejeição de contratos de aluguel.
-
-### Histórias de Usuário - CarGO
+## Histórias de Usuário - CarGO
 
 | ID  | Ator      | História de Usuário                                                                                                      |
 | --- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -96,6 +85,9 @@ O **CarGo** é uma plataforma web projetada para gerenciar o processo de aluguel
 ![Diagrama de Casos de Uso](Diagramas/Diagrama_caso_uso.png)
 
 ## Diagrama de Classes 
+
+![Diagrama de Classes](Diagramas/Diagrama_classe.png)
+
 
 ## Diagrama de Pacotes
 

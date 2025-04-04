@@ -111,3 +111,11 @@ O **CarGo** é uma plataforma web projetada para gerenciar o processo de aluguel
 | **Banco de Dados** | PostgreSQL L |
 | **Autenticação** | JWT |
 | **Infraestrutura** | Servidores em Cloud (AWS, Azure ou Google Cloud) |
+
+## Imagens do sistema 
+![Images](Images/1.png)
+![Images](Images/2.png)
+![Images](Images/3.png)
+![Images](Images/4.png)
+![Images](Images/5.png)
+

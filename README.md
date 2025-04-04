@@ -113,9 +113,9 @@ O **CarGo** é uma plataforma web projetada para gerenciar o processo de aluguel
 | **Infraestrutura** | Servidores em Cloud (AWS, Azure ou Google Cloud) |
 
 ## Imagens do sistema 
-![Images](Images/1.png)
-![Images](Images/2.png)
-![Images](Images/3.png)
-![Images](Images/4.png)
-![Images](Images/5.png)
+![Sistema](Sistema/1.png)
+![Sistema](Sistema/2.png)
+![Sistema](Sistema/3.png)
+![Sistema](Sistema/4.png)
+![Sistema](Sistema/5.png)
 

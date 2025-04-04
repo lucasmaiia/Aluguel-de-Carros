@@ -91,11 +91,10 @@ O **CarGo** é uma plataforma web projetada para gerenciar o processo de aluguel
 - Clientes devem fornecer informações como **RG, CPF, Nome, Endereço, Profissão, Entidade Empregadora e Renda (até 3 registros)**.
 
 ### Gerenciamento de Automóveis
-- Registro de informações sobre os veículos, incluindo **matrícula, ano, marca, modelo e placa**.
+- Registro de informações sobre os veículos, incluindo ** ano, modelo, valor e local**.
 - Associação do automóvel a contratos de aluguel.
 
 ### Contratos e Análise Financeira
-- O aluguel pode estar vinculado a um **contrato de crédito** fornecido por um banco agente.
 - Somente pedidos com parecer financeiro positivo podem ser finalizados.
 
 ### Infraestrutura do Sistema
